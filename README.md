@@ -29,7 +29,9 @@
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/72/flutter.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/72/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/dusk/72/github.png" />
+<img align="left" alt="BitBucket" width="26px" src="https://img.icons8.com/color/72/bitbucket.png" />
 <img align="left" alt="Jira" width="26px" src="https://img.icons8.com/color/72/jira.png" />
+<img align="left" alt="CI" width="26px" src="https://img.icons8.com/color/72/jenkins.png" />
 
 <br />
 <br />
