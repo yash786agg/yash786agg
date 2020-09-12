@@ -31,6 +31,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/jira.svg" />
 
+<br />
+<br />
 
 <details>
   <summary>:zap: Github Stats</summary>
