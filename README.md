@@ -21,15 +21,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/androidstudio.svg" />]
-[<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/android.svg" />]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />]
-[<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/kotlin.svg" />]
-[<img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gradle.svg" />]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/flutter.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/git.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />]
-[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/jira.svg" />]
+<img align="left" alt="Android Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/androidstudio.svg" />
+<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/android.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/java.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/kotlin.svg" />
+<img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gradle.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/flutter.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/jira.svg" />
 
 
 <details>
