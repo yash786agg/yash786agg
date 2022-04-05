@@ -2,7 +2,6 @@
 
 ## I'm a Developer, and Influencer!
 
-- 🔭 I’m currently working as a Team Lead at [KONE](https://www.kone.com/en/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
